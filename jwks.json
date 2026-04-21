@@ -1,7 +1,5 @@
 {
   "keys": [
-{
-  "keys": [
     {
       "kty": "RSA",
       "n": "n-4WYLubKS7q1hpAIXfJ6LLEHeBKpSL-T3futckGKWmZsjGj6vJeciT0hRiHwBlQzu1RR3p-f33zO1Fyy1e6vJbDrU0QZ9Xq_5PrqpwthhUKlC8XNES4ILWXoL4E7r6h62I7SeiWrLSOHLH2n-PYTOsxkU4ujrcGL-4Hy5dSODUNOjSQW767thX-SGrtD0kJT0iV7rM81uW5VmIbejm8mZQSymTxjWUd2g12X6f0a0tjIVItK6vK3A1xADm-5lvR-KQNtajcs_3YMFADMmEQxeLDm45Z8C0ySFYAuokK5-Et-Jxswg04Rc4TyDPC0sPj-lB87Swavf01cU0uRpuC8Q",
@@ -9,9 +7,7 @@
       "use": "sig",
       "alg": "RS256",
       "kid": "zps"
-    }
-  ]
-},
+    },
     {
       "kty": "RSA",
       "n": "7tPQa25Qp0-cT9M1Sxrr2uu_gV2d3gQ87-d50wG__Y6rB1hhqpLbb8cxXBhhH92ZUt3BrUFyZ7FabHbuLWiSL7BylkXImOqhKHVq0RnyzgPZp0wPsLqakJ8cAtBQyl6-j6bzMJrxuyMejav4AUc-HdieyQjgCvEqggDu1cnCLamHh2wfi-Jc2Lk6AWb_RRojsWlEjT7MQxHrTS5iBpsYBT9r_iTq3n9E9fTnsDg3raJQ_ezd19WEFREjTrUwhreb1uDWZbnf1oiBqzd415_vp4_XMDeZ8f31A8K2TZFbuWL7IYQnKx7le4jxam6wc3DOrWwYpyRsp4ET2NJOad1K-w",
