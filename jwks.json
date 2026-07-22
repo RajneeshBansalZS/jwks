@@ -2,11 +2,11 @@
   "keys": [
     {
       "kty": "RSA",
-      "n": "1LczhTyHEP7dZsOSCKkQqOWb3Kp8kRW7Kos-wLioCe4j4uEwbPD6BtH3Do9U5GACTzmiaSFcZ3NRO4jt_DDdmiZAxXfFCLp_vTNw4I5NCa5TjS-P08GAjKUkMyJANGhiHvBC9ucONIfLTqoPVKHr1tGJTuxcdApppxgtwI1QfVMFv9FVGVjiwLbLNv2b9cD2D6pAUOiTbmL4cZ0cDLXduWdidUUUod1Gd_kLoreleArj6TxnEhUNc6NtmC8tUfZN43Y-TDK2kbhajcu_5i78XxRj-5Xk81JhtTTfC1pScDv5kyzNcUvsZLEG76xNANvKwzmNER5nd-iTclp63klolQ",
+      "n": "m4dOrvCjLP7Z6SGEfepFibEuWQzHrSuBjxV2DMb6yddjbkjxSsMVYV2nGk-fERTdAHvv4qE7jxOiv-qYmuekoxm6532pKRDjNcjM489vBPDJxwG4z_W4g-Gho-r3TH1SuHHIfxGXct0V7Myp2mrlfw5prDHvBIXKpDPi0VdI0WVo4diZclHgHCAhyrHiYxiFmRRRwrQRG7NHWhae8CjG58H-fb10QqjEay_8dhEpA3ZkQEBr9Ur5PTAccCKLm0ITJBh1YGuzmU-23_7PtcOc4ZmE_scqjTYS_hLn1Tm4jVkYXAqGechQC53H0biYh096p1NK3XlRKz4DACz1SuCFuQ",
       "e": "AQAB",
+      "kid": "zps-jwt-key-1",
       "use": "sig",
-      "alg": "RS256",
-      "kid": "zps"
+      "alg": "RS256"
     }
   ]
 }
